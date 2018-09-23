@@ -9,7 +9,7 @@ What can be learned from data about human survival at extreme age? In this rejoi
 [**LATool**](https://github.com/OGCJN/Rejoinder-to-discussion-of-the-paper-Human-life-is-unlimited---but-short/tree/master/Supplementary%20Materials) - the MATLAB toolbox for life length analysis. 
 
 ## Reference
-Rootzén, H. and Zholud, D. (2018). [**Rejoinder to discussion of the paper “Human life is unlimited – but short”**](http://www.zholud.com/articles/Rejoinder-to-discussion-of-the-paper-'Human-life-is-unlimited-but-short'.pdf), *Extremes*, Vol. 21, No. 2, pp. - to appear.
+Rootzén, H. and Zholud, D. (2018). [**Rejoinder to discussion of the paper “Human life is unlimited – but short”**](http://www.zholud.com/articles/Rejoinder-to-discussion-of-the-paper-'Human-life-is-unlimited-but-short'.pdf), *Extremes*, Vol. 21, No. 3, pp. 415-424.
 
 ## BiBTeX
 
@@ -20,8 +20,8 @@ Rootzén, H. and Zholud, D. (2018). [**Rejoinder to discussion of the paper “H
   Title = {Rejoinder to discussion of the paper “Human life is unlimited – but short”},
   Journal = {Extremes},
   Volume = {21},
-  Number = {2},
-  Pages = {to appear}
+  Number = {3},
+  Pages = {pp. 415-424}
 }
 ```
 
